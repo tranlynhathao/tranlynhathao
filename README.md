@@ -1,4 +1,4 @@
-# 💫 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8F733&random=false&width=435&lines=M%E1%BB%99t+c%E1%BA%ADu+sinh+vi%C3%AAn+h%C6%B0%E1%BB%9Bng+t%E1%BB%9Bi+c%C3%B4ng+ngh%E1%BB%87%22+translates+to+%22)](https://git.io/typing-svg)
 
 👋 Greetings! My name is Tran Ly Nhat Hao, and I hail from the picturesque province of Tay Ninh in Vietnam. Currently, I am in my junior year at the esteemed VNUHCM - University of Science.<br><br>❤️‍🔥 I am actively seeking opportunities in the fields of Software Engineering, Machine Learning, and Project Management. My goal is to leverage my expertise in programming, project management, and creativity to make meaningful contributions in a professional sphere.<br><br>📘 For inquiries or collaboration opportunities, please feel free to reach out to me via email at haotran04022005@gmail.com or connect with me on LinkedIn under the name Tran Ly Nhat Hao.<br><br>💻 You can also explore more about me and my endeavors on my personal website.<br><br>Thank you for considering me for any potential opportunities, and I look forward to connecting with you soon.
 
