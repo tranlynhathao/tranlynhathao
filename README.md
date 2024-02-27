@@ -19,7 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tranlynhathao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tranlynhathao&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tranlynhathao) 
