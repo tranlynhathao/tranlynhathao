@@ -21,8 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tranlynhathao&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tranlynhathao) 
-
+## 💰 You can help me by Donating
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tranlynhathao) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
