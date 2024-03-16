@@ -36,7 +36,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tranlynhathao&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <br>
 <div align=center>
   <a href="#" title="">
@@ -46,6 +46,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </div>
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
