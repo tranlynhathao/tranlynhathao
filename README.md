@@ -36,7 +36,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tranlynhathao&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+# 📊 GitHub Stats:
 <br>
 <div align=center>
   <a href="#" title="">
