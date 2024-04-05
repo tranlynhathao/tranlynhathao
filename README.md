@@ -40,10 +40,10 @@
 <br>
 <div align=center>
   <a href="#" title="">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
   <a href="#" title="">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </div>
 
