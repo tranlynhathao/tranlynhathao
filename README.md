@@ -58,23 +58,3 @@
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tranlynhathao) 
-
----
-
-<a href="https://github.com/tranlynhathao/MAI-hackathon-/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranlynhathao&repo=MAI-hackathon-&theme=radical" />
-</a>   
-<a href="https://github.com/tranlynhathao/OCR---Project/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranlynhathao&repo=OCR---Project&theme=merko" />
-</a>   
-
-<a href="https://github.com/tranlynhathao/MyLazyVim/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranlynhathao&repo=MyLazyVim&theme=gruvbox" />
-</a>   
-<a href="https://github.com/tranlynhathao/pikachu_matching_game/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tranlynhathao&repo=pikachu_matching_game&theme=onedark" />
-</a>   
