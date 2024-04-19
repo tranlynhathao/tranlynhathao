@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8F733&random=false&width=435&lines=A+student+aiming+towards+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Welcome+to+Hao's+personal+page)](https://git.io/typing-svg)
 
 ```
                                           .-/+oossssoo+/-.             
