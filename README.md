@@ -54,9 +54,6 @@
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tranlynhathao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
