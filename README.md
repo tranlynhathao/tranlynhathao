@@ -23,7 +23,7 @@
                                          .-/+ossossososso+/-.      
 ```
 
-👋 Greetings! My name is Tran Ly Nhat Hao, and I hail from the picturesque province of Tay Ninh in Vietnam. Currently, I am in my freshman year at the esteemed VNUHCM - University of Science.<br><br>❤️‍🔥 I am actively seeking opportunities in the fields of Software Engineering and Machine Learning. My goal is to leverage my expertise in programming, project management, and creativity to make meaningful contributions in a professional sphere.<br><br>📘 For inquiries or collaboration opportunities, please feel free to reach out to me via email at haotran04022005@gmail.com or connect with me on LinkedIn under the name Tran Ly Nhat Hao.<br><!-- <br>💻 You can also explore more about me and my endeavors on my personal website.<br> --> <br>Thank you for considering me for any potential opportunities, and I look forward to connecting with you soon.
+👋 Greetings! My name is Tran Ly Nhat Hao, and I hail from Tay Ninh in Vietnam. Currently, I am in my freshman year at the esteemed VNUHCM - University of Science.<br><br>❤️‍🔥 I am actively seeking opportunities in the fields of Software Engineering and Machine Learning. My goal is to leverage my expertise in programming, project management, and creativity to make meaningful contributions in a professional sphere.<br><br>📘 For inquiries or collaboration opportunities, please feel free to reach out to me via email at haotran04022005@gmail.com or connect with me on LinkedIn under the name Tran Ly Nhat Hao.<br><!-- <br>💻 You can also explore more about me and my endeavors on my personal website.<br> --> <br>Thank you for considering me for any potential opportunities, and I look forward to connecting with you soon.
 
 
 ## 🌐 Socials:
@@ -37,7 +37,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 📊 GitHub Stats:
-<br>
+<!-- <br>
 <div align=center>
   <a href="#" title="">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -45,7 +45,11 @@
   <a href="#" title="">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
-</div>
+</div> -->
+
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tranlynhat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 
 <!-- ## 🏆 GitHub Trophies
