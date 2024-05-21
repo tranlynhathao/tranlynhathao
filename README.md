@@ -47,7 +47,6 @@
   </a>
 </div> -->
 
-My stats:
 <p align="center">
 <img src="https://github.com/tranlynhathao/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://github.com/tranlynhathao/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
