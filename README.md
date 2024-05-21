@@ -47,8 +47,11 @@
   </a>
 </div> -->
 
-![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tranlynhat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+My stats:
+<p align="center">
+<img src="https://github.com/tranlynhathao/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://github.com/tranlynhathao/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
+</p>
 
 
 
