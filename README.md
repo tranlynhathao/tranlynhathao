@@ -23,7 +23,13 @@
                                          .-/+ossossososso+/-.      
 ```
 
-👋 Hi! My name is Tran Ly Nhat Hao, and I hail from Tay Ninh in Vietnam. Currently, I am in my freshman year at the VNUHCM - University of Science.<br><br>❤️‍🔥 I am actively seeking opportunities in the fields of Software Engineering and Machine Learning. My goal is to leverage my expertise in programming, project management, and creativity to make meaningful contributions in a professional sphere.<br><br>📘 For inquiries or collaboration opportunities, please feel free to reach out to me via email at haotran04022005@gmail.com or connect with me on LinkedIn under the name Tran Ly Nhat Hao.<br><!-- <br>💻 You can also explore more about me and my endeavors on my personal website.<br> --> <br>Thank you for considering me for any potential opportunities, and I look forward to connecting with you soon.
+👋 Hello! I'm Tran Ly Nhat Hao, and Tay Ninh is where I'm from in Vietnam. I'm a first-year student at the VNUHCM - University of Science right now.
+
+❤️‍🔥 I am actively looking for positions in machine learning and software engineering. To significantly impact social change, I hope to use my skills in project management, programming, and creative.
+
+📘 You can contact me by email at haotran04022005@gmail.com if you have any questions or would want to work together. You can also find me on LinkedIn under the name Tran Ly Nhat Hao. You can also explore more about me and my endeavors on my personal website.
+
+Thank you for considering me for any potential opportunities, and I look forward to connecting with you soon.
 
 
 ## 🌐 Socials:
