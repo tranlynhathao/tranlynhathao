@@ -66,10 +66,10 @@ Thank you for considering me for any potential opportunities, and I look forward
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tranlynhathao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
-
+<!--
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+</p> -->
 
 ---
 
