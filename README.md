@@ -70,7 +70,5 @@ Thank you for considering me for any potential opportunities, and I look forward
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p> -->
-<br>
----
 
 ![View count](https://komarev.com/ghpvc/?username=tranlynhathao)
