@@ -73,5 +73,4 @@ Thank you for considering me for any potential opportunities, and I look forward
 
 ---
 
-## 💰 You can help me by Donating
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tranlynhathao) 
+![View count](https://komarev.com/ghpvc/?username=tranlynhathao)
