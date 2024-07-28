@@ -27,7 +27,7 @@
 
 ❤️‍🔥 I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.
 
-I can be reached at haotran04022005@gmail.com if you would like to collaborate or if you have any questions. Additionally, you may find me on LinkedIn, where my name is Tran Ly Nhat Hao. My personal webpage has more information about me and my endeavours.
+I can be reached at haotran04022005@gmail.com if you would like to collaborate or if you have any questions. Additionally, you may find me on LinkedIn, where my name is [Tran Ly Nhat Hao](https://www.linkedin.com/in/tranlynhathao/). My personal webpage has more information about me and my endeavours.
 
 I appreciate you stopping by my own webpage. Wishing you luck!
 
