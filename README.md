@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg)
-
+<!--
 ```
                                           .-/+oossssoo+/-.             
                                       `:+ssssssssssssssssss+:`         
@@ -22,7 +22,7 @@
                                      -:+sssssssssssssssssssss+:-
                                          .-/+ossossososso+/-.      
 ```
-
+-->
 👋 Hello! I'm Tran Ly Nhat Hao, and Tay Ninh is where I'm from in Vietnam. I'm a first-year student at the VNUHCM - University of Science right now.
 
 ❤️‍🔥 I am actively looking for positions in machine learning and software engineering. To significantly impact social change, I hope to use my skills in project management, programming, and creative.
