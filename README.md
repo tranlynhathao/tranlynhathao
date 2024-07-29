@@ -74,3 +74,5 @@ I appreciate you stopping by my own webpage. Wishing you luck!
 ---
 
 ![View count](https://komarev.com/ghpvc/?username=tranlynhathao)
+
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&fontAlign=50&fontAlignY=50&animation=twinkling
