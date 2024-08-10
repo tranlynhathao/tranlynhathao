@@ -6,7 +6,7 @@
         </a>
     </div>
     <div>
-        <img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168" alt="Discord Profile">
+        <img align="right" width="300" src="https://lanyard.kyrie25.dev/api/908932551278727168?" alt="Discord Profile">
     </div>
 </div>
 <!--
