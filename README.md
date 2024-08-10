@@ -36,7 +36,8 @@ I appreciate you stopping by my own webpage. Wishing you luck!
 <a href=""><img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117"></a>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nhathao.tranly.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tranlynhathao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TranLyNhatHao) 
-
+<br>
+<br>
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhathao0402) -->
 
 <!-- # 📊 GitHub Stats:
