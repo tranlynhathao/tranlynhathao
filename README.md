@@ -6,7 +6,7 @@
         </a>
     </div>
     <div>
-        <img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Profile">
+        <img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Profile">
     </div>
 </div>
 <!--
