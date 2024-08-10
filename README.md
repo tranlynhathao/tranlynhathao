@@ -33,15 +33,14 @@ I appreciate you stopping by my own webpage. Wishing you luck!
 
 
 ## 🌐 Socials:
-<div style="display: flex; align-items: center;">
-    <a href="">
-        <img style="margin-left: 20px;" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117">
-    </a>
-    <div style="margin-left: 20px;">
-        <a href="https://facebook.com/nhathao.tranly.3"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-        <a href="https://linkedin.com/in/tranlynhathao"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-        <a href="https://x.com/TranLyNhatHao"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-    </div>
+<div style="position: absolute; top: 20px; right: 20px;">
+    <img width="150" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117">
+</div>
+
+<div style="text-align: center;">
+    <a href="https://facebook.com/nhathao.tranly.3"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+    <a href="https://linkedin.com/in/tranlynhathao"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+    <a href="https://x.com/TranLyNhatHao"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
 </div>
 
 <br><br>
@@ -50,7 +49,8 @@ I appreciate you stopping by my own webpage. Wishing you luck!
 <div align=center>
     <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false" />
-</div> 
+</div>
+
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhathao0402) -->
 
