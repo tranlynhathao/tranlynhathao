@@ -5,7 +5,7 @@
             <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page" alt="Typing SVG">
         </a>
     </div>
-    <div>
+    <div style="padding: 10px; background-color: #282c34; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
         <img width="150" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117" alt="Discord Profile">
     </div>
 </div>
