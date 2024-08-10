@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg) -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div>
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page" alt="Typing SVG">
+        </a>
+    </div>
+    <div style="padding: 10px; background-color: #282c34; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+        <img align="right" width="280" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117" alt="Discord Profile">
+    </div>
+</div>
 <!--
 ```
                                           .-/+oossssoo+/-.             
@@ -23,23 +33,13 @@
                                          .-/+ossossososso+/-.      
 ```
 -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
-    <!-- Left section with text -->
-    <div style="flex: 1; padding-right: 20px;">
-        👋 Hi there! I'm Tran Ly Nhat Hao, a first-year student at VNUHCMC - University of Science, from Vietnam.
+👋 Hi there! I'm Tran Ly Nhat Hao, a first-year student at VNUHCMC - University of Science, from Vietnam.
 
-        I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.
+I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.
 
-        I can be reached at haotran04022005@gmail.com if you would like to collaborate or if you have any questions. Additionally, you may find me on LinkedIn, where my name is <a href="https://www.linkedin.com/in/tranlynhathao/">Nhat-Hao Tran</a>. My personal webpage has more information about me and my endeavours.
+I can be reached at haotran04022005@gmail.com if you would like to collaborate or if you have any questions. Additionally, you may find me on LinkedIn, where my name is [Nhat-Hao Tran](https://www.linkedin.com/in/tranlynhathao/). My personal webpage has more information about me and my endeavours.
 
-        I appreciate you stopping by my own webpage. Wishing you luck!
-    </div>
-
-    <!-- Right section with Discord profile -->
-    <div style="padding: 10px; background-color: #282c34; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-        <img width="150" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117" alt="Discord Profile">
-    </div>
-</div>
+I appreciate you stopping by my own webpage. Wishing you luck!
 
 
 ## 🌐 Socials:
