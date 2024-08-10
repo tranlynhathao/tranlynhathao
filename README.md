@@ -33,17 +33,11 @@ I appreciate you stopping by my own webpage. Wishing you luck!
 
 
 ## 🌐 Socials:
-<div style="position: absolute; top: 20px; right: 20px;">
-    <img width="150" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117">
-</div>
-
 <div style="text-align: center;">
     <a href="https://facebook.com/nhathao.tranly.3"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
     <a href="https://linkedin.com/in/tranlynhathao"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
     <a href="https://x.com/TranLyNhatHao"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
 </div>
-
-<br><br>
 
 ## 📊 GitHub Stats:
 <div align=center>
