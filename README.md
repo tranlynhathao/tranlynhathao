@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg) -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div>
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page" alt="Typing SVG">
+        </a>
+    </div>
+    <div>
+        <img width="150" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117" alt="Discord Profile">
+    </div>
+</div>
 <!--
 ```
                                           .-/+oossssoo+/-.             
