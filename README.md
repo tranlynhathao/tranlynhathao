@@ -7,7 +7,7 @@
     </div>
     <div>
         <a href="https://discord.com/users/908932551278727168" target="_blank">
-            <img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?theme=dark&bg=0E1116&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Profile">
+            <img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?theme=dark&bg=0E1116&animated=true&" alt="Discord Profile">
         </a>
     </div>
 </div>
