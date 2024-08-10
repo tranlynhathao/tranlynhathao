@@ -45,8 +45,8 @@ I appreciate you stopping by my own webpage. Wishing you luck!
 ## 📊 GitHub Stats:
 <br>
 <div align=center>
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false" />
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false" />
 </div> 
 
 <!-- <p align="center">
