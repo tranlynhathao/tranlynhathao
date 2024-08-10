@@ -6,7 +6,7 @@
         </a>
     </div>
     <div style="padding: 10px; background-color: #282c34; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-        <img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117" alt="Discord Profile">
+        <img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168??imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&animationDuration=4s&bg=0d1117" alt="Discord Profile">
     </div>
 </div>
 <!--
