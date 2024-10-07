@@ -38,8 +38,8 @@
 
 👋 Hi there! I'm Tran Ly Nhat Hao, a first-year student at VNUHCMC - University of Science, from Vietnam.<br>
 I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.<br>
-I can be reached at haotran04022005@gmail.com if you would like to collaborate or if you have any questions. Additionally, you may find me on LinkedIn, where my name is <a href="https://www.linkedin.com/in/tranlynhathao/">Nhat-Hao Tran</a>. My personal webpage has more information about me and my endeavours.<br>
-I appreciate you stopping by my own webpage. Wishing you luck!
+I am open to collaborating on innovative projects, and you can reach me at haotran04022005@gmail.com for any inquiries or potential collaborations. Feel free to connect with me on LinkedIn or visit my personal webpage to learn more about my work and ongoing projects.
+Thank you for visiting, and I look forward to connecting with you!
 
 
 
