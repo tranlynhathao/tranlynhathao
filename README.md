@@ -84,6 +84,4 @@ Thank you for visiting, and I look forward to connecting with you!
 
 ---
 
-![View count](https://komarev.com/ghpvc/?username=tranlynhathao)
-
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&fontAlign=50&fontAlignY=50&animation=twinkling) -->
