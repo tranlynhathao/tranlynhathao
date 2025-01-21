@@ -36,7 +36,7 @@
 ```
 -->
 
-👋 Hi there! I'm Tran Ly Nhat Hao, a first-year student at [VNUHCMC - University of Science](https://hcmus.edu.vn/) [[fit](https://www.fit.hcmus.edu.vn/)], from Vietnam.<br>
+👋 Hi there! I'm Tran Ly Nhat Hao, a second-year student at [VNUHCMC - University of Science](https://hcmus.edu.vn/) [[fit](https://www.fit.hcmus.edu.vn/)], from Vietnam.<br>
 I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.<br>
 I am open to collaborating on innovative projects, and you can reach me at haotran04022005@gmail.com for any inquiries or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranlynhathao/) or visit [my personal webpage](https://tranlynhathao.vercel.app/) to learn more about my work and ongoing projects.
 
