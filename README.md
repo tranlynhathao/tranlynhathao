@@ -82,7 +82,7 @@ Thank you for visiting, and I look forward to connecting with you!
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p> -->
 
----
+<!-- --- -->
 
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&fontAlign=50&fontAlignY=50&animation=twinkling) -->
 <!-- <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=tranlynhathao&style=for-the-badge"> </a> -->
