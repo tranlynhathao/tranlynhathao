@@ -7,9 +7,7 @@
 </p>
 
 <p align="right">
-    <a href="https://discord.com/users/908932551278727168" target="_blank">
-        <img width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?theme=dark&bg=203447&animated=true&idleMessage=Sparks%20in%20the%20dark%20sky%20..." alt="Discord Profile">
-    </a>
+    <a href="https://discord.com/users/908932551278727168"><img src="https://lanyard.cnrad.dev/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true" /></a>
 </p>
 
 <!--
