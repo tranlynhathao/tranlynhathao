@@ -1,6 +1,6 @@
 # GitHub special files and paths
 
-<img src="README.png" alt="GitHub special files and paths" style="width: 100%;"/>
+<img src="assets/README.png" alt="GitHub special files and paths" style="width: 100%;"/>
 
 GitHub uses special files such as `README` and `LICENSE`, special paths such as `/.github` and `/docs`, and special repositories like `<org>/.github` or `<user>/<user>`, to improve repository management and developer interactions.  This page is a summary. We welcome pull requests.
 
