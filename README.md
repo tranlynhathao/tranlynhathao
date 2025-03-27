@@ -1,4 +1,28 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg) -->
+
+<table>
+  <tr>
+    <td>
+      <h3>👋 Hi there! I'm Tran Ly Nhat Hao</h3>
+      A second-year student at <a href="https://hcmus.edu.vn/">VNUHCMC - University of Science</a> 
+      <a href="https://www.fit.hcmus.edu.vn/">[FIT]</a>, from Vietnam.<br><br>
+      I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, 
+      programming, and project management talents to work.<br><br>
+      I am open to collaborating on innovative projects, and you can reach me at <b>haotran04022005@gmail.com</b> 
+      for any inquiries or potential collaborations.<br><br>
+      Feel free to connect with me on <a href="https://www.linkedin.com/in/tranlynhathao/">LinkedIn</a> 
+      or visit <a href="https://tranlynhathao.vercel.app/">my personal webpage</a> to learn more about my work 
+      and ongoing projects.
+    </td>
+    <td>
+      <a href="https://discord.com/users/908932551278727168">
+        <img src="https://lanyard.cnrad.dev/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true" width="350"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div>
         <a href="https://git.io/typing-svg">
