@@ -1,15 +1,14 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg) -->
-
-<p align="left">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page" alt="Typing SVG">
-    </a>
-</p>
-
-<p align="right">
-    <a href="https://discord.com/users/908932551278727168"><img src="https://lanyard.cnrad.dev/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true" /></a>
-</p>
-
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div>
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page" alt="Typing SVG">
+        </a>
+    </div>
+    <div>
+        <a href="https://discord.com/users/908932551278727168"><img src="https://lanyard.cnrad.dev/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true" /></a>
+    </div>
+</div>
 <!--
 ```
                                           .-/+oossssoo+/-.             
@@ -35,7 +34,7 @@
 ```
 -->
 
-👋 Hi there! I'm Tran Ly Nhat Hao, a second-year student at [VNUHCMC - University of Science](https://hcmus.edu.vn/) [[FIT](https://www.fit.hcmus.edu.vn/)], from Vietnam.<br>
+👋 Hi there! I'm Tran Ly Nhat Hao, a second-year student at [VNUHCMC - University of Science](https://hcmus.edu.vn/) [[fit](https://www.fit.hcmus.edu.vn/)], from Vietnam.<br>
 I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.<br>
 I am open to collaborating on innovative projects, and you can reach me at haotran04022005@gmail.com for any inquiries or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranlynhathao/) or visit [my personal webpage](https://tranlynhathao.vercel.app/) to learn more about my work and ongoing projects.
 
