@@ -1,15 +1,17 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg) -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div>
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page" alt="Typing SVG">
-        </a>
-    </div>
-    <div>
-        [![Discord Presence](https://lanyard.cnrad.dev/api/908932551278727168?borderRadius=10px&theme=dark&showDisplayName=true&idleMessage=Zero%20trust%2C%20maximum%20security.)](https://discord.com/users/908932551278727168)
-    </div>
-</div>
-<!--
+
+<p align="left">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page" alt="Typing SVG">
+    </a>
+</p>
+
+<p align="right">
+    <a href="https://discord.com/users/908932551278727168" target="_blank">
+        <img width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?theme=dark&bg=203447&animated=true&idleMessage=Sparks%20in%20the%20dark%20sky%20..." alt="Discord Profile">
+    </a>
+</p>
+
 ```
                                           .-/+oossssoo+/-.             
                                       `:+ssssssssssssssssss+:`         
