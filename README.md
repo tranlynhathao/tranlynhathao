@@ -6,9 +6,7 @@
         </a>
     </div>
     <div>
-        <a href="https://discord.com/users/908932551278727168" target="_blank">
-            <img align="right" width="300" src="https://lanyard.kyrie25.me/api/908932551278727168?theme=dark&bg=203447&animated=true&idleMessage=Sparks%20in%20the%20dark%20sky%20..." alt="Discord Profile">
-        </a>
+        [![Discord Presence](https://lanyard.cnrad.dev/api/908932551278727168?borderRadius=10px&theme=dark&showDisplayName=true&idleMessage=Zero%20trust%2C%20maximum%20security.)](https://discord.com/users/908932551278727168)
     </div>
 </div>
 <!--
