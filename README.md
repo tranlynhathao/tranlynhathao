@@ -54,7 +54,8 @@ Thank you for visiting, and I look forward to connecting with you!
 
 ## 📊 GitHub Stats:
 <div align=center>
-    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<!--     <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
+    <img width="42%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tranlynhathao&theme=vue-dark&hide_border=true" />
     <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
 </div>
 
