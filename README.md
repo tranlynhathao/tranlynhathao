@@ -13,6 +13,8 @@
     </div>
 </div>
 
+
+![tranlynhathao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tranlynhathao&theme=gruvbox&hide_border=false)
 <!--
 ```
                                           .-/+oossssoo+/-.             
