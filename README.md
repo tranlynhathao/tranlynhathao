@@ -59,11 +59,28 @@ Thank you for visiting, and I look forward to connecting with you!
     <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=180" />
 </div>
 -->
-
+<!--
 ![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
+
+<div align="center">
+
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg" alt="GitHub Stats" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg" alt="Languages" />
+  </picture>
+
+</div>
+
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhathao0402) -->
 
