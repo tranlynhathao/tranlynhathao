@@ -52,12 +52,18 @@ Thank you for visiting, and I look forward to connecting with you!
     <a href="https://x.com/TranLyNhatHao"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
 </div>
 
+<!--
 ## 📊 GitHub Stats:
 <div align=center>
     <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=180" />
     <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=180" />
 </div>
+-->
 
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhathao0402) -->
 
@@ -70,11 +76,6 @@ Thank you for visiting, and I look forward to connecting with you!
 <img src="https://github.com/tranlynhathao/github-stats/blob/master/generated/overview.svg">
 <img src="https://github.com/tranlynhathao/github-stats/blob/master/generated/languages.svg">
 </p> -->
-
-![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
