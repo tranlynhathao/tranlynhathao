@@ -71,7 +71,10 @@ Thank you for visiting, and I look forward to connecting with you!
 <img src="https://github.com/tranlynhathao/github-stats/blob/master/generated/languages.svg">
 </p> -->
 
-
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
