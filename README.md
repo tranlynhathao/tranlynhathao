@@ -63,15 +63,13 @@ Thank you for visiting, and I look forward to connecting with you!
 <div align="center">
 
   <picture>
-    <source srcset="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg" alt="GitHub Stats" />
+    <source srcset="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats" />
   </picture>
 
-  <!-- <br/> -->
-
   <picture>
-    <source srcset="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg" alt="Languages" />
+    <source srcset="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/tranlynhathao/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages" />
   </picture>
 
 </div>
