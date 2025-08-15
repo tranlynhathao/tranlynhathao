@@ -4,46 +4,28 @@
   style="
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
     flex-wrap: wrap;
     gap: 20px;
   "
 >
-  <div style="flex: 1; min-width: 300px">
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page"
-        alt="Typing SVG"
-        style="max-width: 100%"
-      />
-    </a>
-    <p>
-      👋 Hi there! I'm Tran Ly Nhat Hao, a sophomore student at
-      <a href="https://hcmus.edu.vn/">VNUHCM - University of Science</a>
-      <a href="https://www.fit.hcmus.edu.vn/">[FIT]</a>, from Vietnam.<br />
-      I'm now searching for work in software engineering and machine learning.
-      My goal is to put my creativity, programming, and project management
-      talents to work.<br />
-      I am open to collaborating on innovative projects, and you can reach me at
-      <a href="mailto:haotran04022005@gmail.com">haotran04022005@gmail.com</a>
-      for any inquiries or potential collaborations. Feel free to connect with
-      me on
-      <a href="https://www.linkedin.com/in/tranlynhathao/">LinkedIn</a> or visit
-      <a href="https://tranlynhathao.vercel.app/">my personal webpage</a> to
-      learn more about my work and ongoing projects.
-    </p>
-    <p>Thank you for visiting, and I look forward to connecting with you!</p>
-  </div>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page"
+      alt="Typing SVG"
+      style="max-width: 100%"
+    />
+  </a>
 
-  <div style="flex: 0 0 auto; text-align: center; min-width: 100px">
+  <p align="center" style="margin: 0">
     <a href="https://discord.com/users/908932551278727168">
       <img
         src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true"
         alt="Discord Profile"
-        style="max-width: 100%"
+        style="max-width: 200px; border-radius: 10px"
       />
     </a>
-  </div>
+  </p>
 </div>
 
 <!--
@@ -70,6 +52,13 @@
                                          .-/+ossossososso+/-.      
 ```
 -->
+
+👋 Hi there! I'm Tran Ly Nhat Hao, a sophomore student at [VNUHCM - University of Science](https://hcmus.edu.vn/) [[FIT](https://www.fit.hcmus.edu.vn/)], from Vietnam.<br>
+I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.<br>
+I am open to collaborating on innovative projects, and you can reach me at haotran04022005@gmail.com for any inquiries or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranlynhathao/) or visit [my personal webpage](https://tranlynhathao.vercel.app/) to learn more about my work and ongoing projects.
+
+Thank you for visiting, and I look forward to connecting with you!
+
 
 ## 🌐 Socials:
 <div style="text-align: center;">
