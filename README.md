@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page" alt="Typing SVG" style="max-width: 100%;">
     </a>
     <a href="https://discord.com/users/908932551278727168" target="_blank">
-        <img width="300" src="https://lanyard.cnrad.dev/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true" alt="Discord Profile" style="max-width: 100%;">
+        <img width="300" src="https://lanyard.cnrad.dev/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true" alt="Discord Profile" style="max-width: 50%;">
     </a>
 </div>
 
