@@ -89,6 +89,11 @@ Thank you for visiting, and I look forward to connecting with you!
 
 </div>
 
+---
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhathao0402) -->
 
@@ -116,4 +121,4 @@ Thank you for visiting, and I look forward to connecting with you!
 <!-- --- -->
 
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&fontAlign=50&fontAlignY=50&animation=twinkling) -->
-<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=tranlynhathao&style=for-the-badge"> </a> -->
+<a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=tranlynhathao&style=for-the-badge"> </a>
