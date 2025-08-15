@@ -35,4 +35,3 @@ jobs:
           git add README.md
           git commit -m "🔄 Update GitHub README with latest trophies and stats" || exit 0
           git push
-
