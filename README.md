@@ -35,7 +35,7 @@
     <p>Thank you for visiting, and I look forward to connecting with you!</p>
   </div>
 
-  <div style="flex: 0 0 auto; text-align: center; min-width: 300px">
+  <div style="flex: 0 0 auto; text-align: center; min-width: 100px">
     <a href="https://discord.com/users/908932551278727168">
       <img
         src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true"
