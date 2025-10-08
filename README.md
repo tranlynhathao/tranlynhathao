@@ -57,12 +57,15 @@ Hi there! I'm Tran Ly Nhat Hao, a sophomore student at [VNUHCM - University of S
 I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.<br>
 I am open to collaborating on innovative projects, and you can reach me at haotran04022005@gmail.com for any inquiries or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranlynhathao/) or visit [my personal webpage](https://tranlynhathao.vercel.app/) to learn more about my work and ongoing projects.
 
-## Socials:
-<div style="text-align: center;">
+## Socials: 
+<a href="https://facebook.com/nhathao.tranly.3"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+<a href="https://linkedin.com/in/tranlynhathao"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://x.com/TranLyNhatHao"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+<!-- <div style="text-align: center;">
     <a href="https://facebook.com/nhathao.tranly.3"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
     <a href="https://linkedin.com/in/tranlynhathao"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
     <a href="https://x.com/TranLyNhatHao"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-</div>
+</div> -->
 
 <!--
 
