@@ -53,14 +53,11 @@
 ```
 -->
 
-👋 Hi there! I'm Tran Ly Nhat Hao, a sophomore student at [VNUHCM - University of Science](https://hcmus.edu.vn/) [[FIT](https://www.fit.hcmus.edu.vn/)], from Vietnam.<br>
+Hi there! I'm Tran Ly Nhat Hao, a sophomore student at [VNUHCM - University of Science](https://hcmus.edu.vn/) [[FIT](https://www.fit.hcmus.edu.vn/)], from Vietnam.<br>
 I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.<br>
 I am open to collaborating on innovative projects, and you can reach me at haotran04022005@gmail.com for any inquiries or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranlynhathao/) or visit [my personal webpage](https://tranlynhathao.vercel.app/) to learn more about my work and ongoing projects.
 
-Thank you for visiting, and I look forward to connecting with you!
-
-
-## 🌐 Socials:
+## Socials:
 <div style="text-align: center;">
     <a href="https://facebook.com/nhathao.tranly.3"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
     <a href="https://linkedin.com/in/tranlynhathao"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
@@ -74,7 +71,7 @@ Thank you for visiting, and I look forward to connecting with you!
     <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=180" />
 </div>
 -->
-## 📊 GitHub Stats:
+
 <div align="center">
 
   <picture>
@@ -89,10 +86,12 @@ Thank you for visiting, and I look forward to connecting with you!
 
 </div>
 
+<!--
 ---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
+-->
 
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhathao0402) -->
@@ -121,4 +120,4 @@ Thank you for visiting, and I look forward to connecting with you!
 <!-- --- -->
 
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&fontAlign=50&fontAlignY=50&animation=twinkling) -->
-<a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=tranlynhathao&style=for-the-badge"> </a>
+<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=tranlynhathao&style=for-the-badge"> </a> -->
