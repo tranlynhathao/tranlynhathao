@@ -57,12 +57,6 @@ Hi there! I'm Tran Ly Nhat Hao, a sophomore student at [VNUHCM - University of S
 I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.<br>
 I am open to collaborating on innovative projects, and you can reach me at haotran04022005@gmail.com for any inquiries or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranlynhathao/) or visit [my personal webpage](https://tranlynhathao.vercel.app/) to learn more about my work and ongoing projects.
 
-<div align=center>
-    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=180" />
-    <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=tranlynhathao&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=180" />
-</div>
--->
-
 <div align="center">
 
   <picture>
