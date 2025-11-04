@@ -1,58 +1,45 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg) -->
-
-<!-- 🔹 Dòng chữ động trên cùng -->
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page"
       alt="Typing SVG"
-      style="max-width: 100%; height: auto;"
     />
   </a>
 </div>
 
-<div align="center" style="
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 20px;
-  flex-wrap: nowrap;
-">
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://discord.com/users/908932551278727168">
+        <img
+          src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true"
+          alt="Discord Profile"
+          width="250px"
+        />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://dreamhack-readme-stats.vercel.app/api/stats?username=n0ah"
+          alt="Dreamhack Stats"
+          width="250px"
+        />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://dreamhack-readme-stats.vercel.app/api/most-solved?username=n0ah"
+          alt="Dreamhack Category Chart"
+          width="250px"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Discord -->
-  <div style="flex: 1; max-width: 33%; text-align: center;">
-    <a href="https://discord.com/users/908932551278727168">
-      <img
-        src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true"
-        alt="Discord Profile"
-        style="width: 100%; height: auto; border-radius: 10px;"
-      />
-    </a>
-  </div>
-
-  <!-- Dreamhack Stats -->
-  <div style="flex: 1; max-width: 33%; text-align: center;">
-    <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://dreamhack-readme-stats.vercel.app/api/stats?username=n0ah"
-        alt="Dreamhack Stats"
-        style="width: 100%; height: auto; border-radius: 10px;"
-      />
-    </a>
-  </div>
-
-  <!-- Dreamhack Chart -->
-  <div style="flex: 1; max-width: 33%; text-align: center;">
-    <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://dreamhack-readme-stats.vercel.app/api/most-solved?username=n0ah"
-        alt="Dreamhack Category Chart"
-        style="width: 100%; height: auto; border-radius: 10px;"
-      />
-    </a>
-  </div>
-
-</div>
 
 <!--
 ```
