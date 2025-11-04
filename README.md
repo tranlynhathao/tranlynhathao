@@ -1,61 +1,87 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg) -->
 
-<div
-  style="
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px;
-  "
->
+<!-- 🔹 Dòng chữ động trên cùng -->
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page"
       alt="Typing SVG"
-      style="max-width: 100%"
+      style="max-width: 100%; height: auto;"
     />
   </a>
+</div>
 
-  <p align="center" style="margin: 0">
+<div align="center" style="
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: nowrap;
+">
+
+  <!-- Discord -->
+  <div style="flex: 1; max-width: 33%; text-align: center;">
     <a href="https://discord.com/users/908932551278727168">
       <img
         src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true"
         alt="Discord Profile"
-        style="max-width: 200px; border-radius: 10px"
+        style="width: 100%; height: auto; border-radius: 10px;"
       />
     </a>
-  </p>
+  </div>
+
+  <!-- Dreamhack Stats -->
+  <div style="flex: 1; max-width: 33%; text-align: center;">
+    <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://dreamhack-readme-stats.vercel.app/api/stats?username=n0ah"
+        alt="Dreamhack Stats"
+        style="width: 100%; height: auto; border-radius: 10px;"
+      />
+    </a>
+  </div>
+
+  <!-- Dreamhack Chart -->
+  <div style="flex: 1; max-width: 33%; text-align: center;">
+    <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://dreamhack-readme-stats.vercel.app/api/most-solved?username=n0ah"
+        alt="Dreamhack Category Chart"
+        style="width: 100%; height: auto; border-radius: 10px;"
+      />
+    </a>
+  </div>
+
 </div>
 
 <!--
 ```
-                                          .-/+oossssoo+/-.             
-                                      `:+ssssssssssssssssss+:`         
-                                    -+ssssssssssssssssssyyssss+-       
-                                  .ossssssssssssssssssdMMMNysssso.     
-                                 /ssssssssssshdmmNNmmyNMMMMhssssss/    
-                                +ssssssssshmydMMMMMMMNddddyssssssss+   
-                               /sssssssshmmmmhhhyyyyhmNMMMNhssssssss/  
-                              .ssssssssdMMMNhsssssssssshNMMMdssssssss. 
+                                          .-/+oossssoo+/-.
+                                      `:+ssssssssssssssssss+:`
+                                    -+ssssssssssssssssssyyssss+-
+                                  .ossssssssssssssssssdMMMNysssso.
+                                 /ssssssssssshdmmNNmmyNMMMMhssssss/
+                                +ssssssssshmydMMMMMMMNddddyssssssss+
+                               /sssssssshmmmmhhhyyyyhmNMMMNhssssssss/
+                              .ssssssssdMMMNhsssssssssshNMMMdssssssss.
                               +sssshhhyNMMNyssssssssssssyNMMMysssssss+
                               ossyNMMMNyMMhsssssssssssssshmmmhssssssso
                               ossyNMMMNyMMhsssssssssssssshmmmhssssssso
                               +sssshhhyNMMNyssssssssssssyNMMMysssssss+
-                              .ssssssssdMMMNhsssssssssshNMMMdssssssss. 
-                               /sssssssshmmmhyhhyyyyhdNMMMNhssssssss/  
-                                +sssssssssdmydMMMMMMMMddddyssssssss+   
+                              .ssssssssdMMMNhsssssssssshNMMMdssssssss.
+                               /sssssssshmmmhyhhyyyyhdNMMMNhssssssss/
+                                +sssssssssdmydMMMMMMMMddddyssssssss+
                                  /sssssssssssssdmyddsMMMMMdyssssas/
                                    +sssssssssssssssssssdMMNMsssss/
                                     -+ssssssssssssssssssyysssss+-
                                      -:+sssssssssssssssssssss+:-
-                                         .-/+ossossososso+/-.      
+                                         .-/+ossossososso+/-.
 ```
 -->
 
 Hi there! I'm Tran Ly Nhat Hao, a sophomore student at [VNUHCM - University of Science](https://hcmus.edu.vn/) [[FIT](https://www.fit.hcmus.edu.vn/)], from Vietnam.<br>
 I'm now searching for work in software engineering and machine learning. My goal is to put my creativity, programming, and project management talents to work.<br>
-I am open to collaborating on innovative projects, and you can reach me at haotran04022005@gmail.com for any inquiries or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranlynhathao/) or visit [my personal webpage](https://tranlynhathao.vercel.app/) to learn more about my work and ongoing projects.
+I am open to collaborating on innovative projects, and you can reach me at <haotran04022005@gmail.com> for any inquiries or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranlynhathao/) or visit [my personal webpage](https://tranlynhathao.vercel.app/) to learn more about my work and ongoing projects.
 
 <div align="center">
 
@@ -77,7 +103,6 @@ I am open to collaborating on innovative projects, and you can reach me at haotr
 
 ---
 -->
-
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhathao0402) -->
 
