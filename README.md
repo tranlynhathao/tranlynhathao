@@ -1,4 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFB9&random=false&width=435&lines=Willkommen+auf+meiner+Seite;Welcome+to+my+page)](https://git.io/typing-svg) -->
+
 <div align="left" style="margin-bottom: 10px;">
   <a href="https://git.io/typing-svg">
     <img
@@ -8,18 +9,19 @@
   </a>
 </div>
 
+<div align="center" style="margin-bottom: 10px;">
+  <a href="https://discord.com/users/908932551278727168">
+    <img
+      src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true"
+      alt="Discord Profile"
+      width="250px"
+    />
+  </a>
+</div>
+
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <a href="https://discord.com/users/908932551278727168">
-        <img
-          src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=203447&borderRadius=10px&theme=dark&idleMessage=Zero%20trust%2C%20maximum%20security.&showDisplayName=true"
-          alt="Discord Profile"
-          width="250px"
-        />
-      </a>
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
         <img
           src="https://dreamhack-readme-stats.vercel.app/api/stats?username=n0ah"
@@ -28,7 +30,7 @@
         />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
         <img
           src="https://dreamhack-readme-stats.vercel.app/api/most-solved?username=n0ah"
@@ -39,8 +41,6 @@
     </td>
   </tr>
 </table>
-
-
 <!--
 ```
                                           .-/+oossssoo+/-.
