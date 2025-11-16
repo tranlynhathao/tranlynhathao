@@ -20,7 +20,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
+      <a href="https://dreamhack.io/users/82881" target="_blank" rel="noopener noreferrer">
         <img
           src="https://dreamhack-readme-stats.vercel.app/api/stats?username=n0ah"
           alt="Dreamhack Stats"
@@ -29,7 +29,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://dreamhack.io/users/n0ah" target="_blank" rel="noopener noreferrer">
+      <a href="https://dreamhack.io/users/82881" target="_blank" rel="noopener noreferrer">
         <img
           src="https://dreamhack-readme-stats.vercel.app/api/most-solved?username=n0ah"
           alt="Dreamhack Category Chart"
