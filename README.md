@@ -13,7 +13,7 @@
     <td align="center" width="33%">
       <a href="https://discord.com/users/908932551278727168">
         <img
-          src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=FFFFFF&borderRadius=10px&theme=light&idleMessage=no%20pain%2C%20no%20gain.&showDisplayName=true"
+          src="https://lanyard-profile-readme.vercel.app/api/908932551278727168?bg=FFFFFF&borderRadius=10px&theme=light&idleMessage=hi%20I'm%2C%20noah.&showDisplayName=true"
           alt="Discord Profile"
           width="250px"
         />
