@@ -1,0 +1,37 @@
+name: Update GitHub README
+
+on: workflow_dispatch
+
+jobs:
+  update-readme:
+    name: Update README with GitHub Trophies and Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Trophies
+        run: |
+          echo "![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tranlynhathao&theme=onedark&margin-w=15)" > trophies.md
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+
+      - name: Update README.md
+        run: |
+          sed -i '/<!-- TROPHIES -->/r trophies.md' README.md
+          sed -i '/<!-- METRICS -->/r github-metrics.svg' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Update GitHub README with latest trophies and stats" || exit 0
+          git push
